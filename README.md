@@ -1,5 +1,5 @@
 # ProgrammingProblemSolving-II
-Code written for CSSE 1332 / 1332L
+Code written for CSSE 1322 / 1322L
 Mae Morella - Fall 2019
 
 ## Disclaimer
