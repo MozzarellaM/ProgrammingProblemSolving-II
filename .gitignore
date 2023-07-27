@@ -1,4 +1,4 @@
 # Sandbox files
 src/playground
 # Assignment 7B: alice.txt (required in source root for file to be found)
-alice.txt
+/alice.txt
