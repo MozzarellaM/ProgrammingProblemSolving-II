@@ -1,8 +1,6 @@
-# programming-problem-solving-2
+# programming-2-java
 
-Code written for CSE 1322/L Programming Problem Solving II
-
-Mae Morella - Fall 2019
+Classwork for CSE 1322 Programming and Problem Solving II, Fall 2019
 
 ## Disclaimer
 
